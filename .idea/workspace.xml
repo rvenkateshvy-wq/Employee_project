@@ -36,23 +36,23 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.4442440462464754" />
-      <entry key="MS500" value="4.137625861326316" />
-      <entry key="S2" value="7.7105564668305115" />
-      <entry key="S5" value="9.607146878627573" />
-      <entry key="S10" value="10.61742276626826" />
-      <entry key="S30" value="11.589698353021653" />
-      <entry key="S60" value="15.372123492458892" />
-      <entry key="M2" value="35.597663518417995" />
-      <entry key="M5" value="87.54998032778398" />
-      <entry key="M10" value="123.84431800001582" />
-      <entry key="M15" value="139.54178389221443" />
-      <entry key="M30" value="157.48451366117024" />
-      <entry key="H1" value="167.39837583064246" />
-      <entry key="H2" value="172.61026019538144" />
-      <entry key="H4" value="175.28251718149656" />
-      <entry key="D1" value="177.543912637403" />
-      <entry key="W1" value="177.93476651026828" />
+      <entry key="MS100" value="1.0000307298457194" />
+      <entry key="MS500" value="1.1312057541991807" />
+      <entry key="S2" value="2.914822999021524" />
+      <entry key="S5" value="8.555714643453431" />
+      <entry key="S10" value="17.14907511273902" />
+      <entry key="S30" value="32.30074822984133" />
+      <entry key="S60" value="39.484381272932396" />
+      <entry key="M2" value="52.753513546230565" />
+      <entry key="M5" value="110.16044079350006" />
+      <entry key="M10" value="179.05729179879373" />
+      <entry key="M15" value="217.46745775111032" />
+      <entry key="M30" value="268.29874784756373" />
+      <entry key="H1" value="299.70321574463793" />
+      <entry key="H2" value="317.1916986877948" />
+      <entry key="H4" value="326.4243890227017" />
+      <entry key="D1" value="334.37967899759667" />
+      <entry key="W1" value="335.76792075879575" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
@@ -74,23 +74,23 @@
       <entry key="W1" value="0.0" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="1.3856524739879936" />
-      <entry key="MS500" value="4.031743576870833" />
-      <entry key="S2" value="7.641344556888489" />
-      <entry key="S5" value="9.57254901521093" />
-      <entry key="S10" value="10.598626354759029" />
-      <entry key="S30" value="11.582964568270844" />
-      <entry key="S60" value="15.367204911010061" />
-      <entry key="M2" value="35.59065083185228" />
-      <entry key="M5" value="87.54223793338387" />
-      <entry key="M10" value="123.83867242429353" />
-      <entry key="M15" value="139.53750302294546" />
-      <entry key="M30" value="157.48207597434543" />
-      <entry key="H1" value="167.39707451687588" />
-      <entry key="H2" value="172.60958781382945" />
-      <entry key="H4" value="175.28217541532575" />
-      <entry key="D1" value="177.54385488949134" />
-      <entry key="W1" value="177.9347582411305" />
+      <entry key="MS100" value="0.21168653708972404" />
+      <entry key="MS500" value="0.7820952624189624" />
+      <entry key="S2" value="2.616367260101409" />
+      <entry key="S5" value="8.33915367525172" />
+      <entry key="S10" value="16.998468225991317" />
+      <entry key="S30" value="32.22680744901737" />
+      <entry key="S60" value="39.441236200170025" />
+      <entry key="M2" value="52.72655406561699" />
+      <entry key="M5" value="110.14206663938597" />
+      <entry key="M10" value="179.04399685974468" />
+      <entry key="M15" value="217.4571178257822" />
+      <entry key="M30" value="268.29261613132354" />
+      <entry key="H1" value="299.6998559111463" />
+      <entry key="H2" value="317.18993732213494" />
+      <entry key="H4" value="326.4234868917885" />
+      <entry key="D1" value="334.3795255667827" />
+      <entry key="W1" value="335.7678987634918" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -110,7 +110,7 @@
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
-    "git-widget-placeholder": "abhinamdan",
+    "git-widget-placeholder": "vicky",
     "junie.onboarding.icon.badge.shown": "true",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "D:/SAMPLE_PROJECT",
